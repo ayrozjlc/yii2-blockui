@@ -1,5 +1,6 @@
 {
   "name": "jlc/yii2-blockui",
+  "version": "0.1",
   "description": "AssetBundle for jQuery BlockUI Plugin http://jquery.malsup.com/block/",
   "keywords": [
     "yii2",
