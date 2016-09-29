@@ -26,9 +26,9 @@
       "ayrozjlc\\blockui\\": ""
     }
   },
-  "minimum-stability": "stable",
+  "minimum-stability": "dev",
   "require": {
-    "bower-asset/blockui": "dev-master",
+    "bower-asset/blockui": "*",
     "yiisoft/yii2": "2.0.*"
   },
   "extra": {
