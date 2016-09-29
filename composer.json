@@ -1,0 +1,39 @@
+{
+  "name": "jlc/yii2-blockui",
+  "description": "AssetBundle for jQuery BlockUI Plugin http://jquery.malsup.com/block/",
+  "keywords": [
+    "yii2",
+    "blockui",
+    "block",
+    "jquery plugin",
+    "yii2-blockui",
+  ],
+  "type": "yii2-extension",
+  "license": "BSD-3-Clause",
+  "support": {
+    "source": "https://github.com/ayrozjlc/yii2-blockui"
+  },
+  "authors": [
+    {
+      "name": "Jose Lopez Chavez(ayrozjlc)",
+      "email": "jlopez@tecnocen.com",
+      "homepage": "https://github.com/tecnocen-com",
+      "role": "Developer"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "ayrozjlc\\blockui\\": ""
+    }
+  },
+  "minimum-stability": "dev",
+  "require": {
+    "bower-asset/blockui": "dev-master",
+    "yiisoft/yii2": "2.0.*"
+  },
+  "extra": {
+    "asset-installer-paths": {
+      "bower-asset-library": "vendor/bower"
+    }
+  }
+}
