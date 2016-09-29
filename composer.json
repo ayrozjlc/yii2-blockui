@@ -6,7 +6,7 @@
     "blockui",
     "block",
     "jquery plugin",
-    "yii2-blockui",
+    "yii2-blockui"
   ],
   "type": "yii2-extension",
   "license": "BSD-3-Clause",
