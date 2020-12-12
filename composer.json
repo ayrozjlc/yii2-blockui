@@ -28,7 +28,7 @@
   },
   "minimum-stability": "dev",
   "require": {
-    "bower-asset/blockui": "*",
+    "bower-asset/blockui": "^2.70",
     "yiisoft/yii2": "2.0.*"
   },
   "extra": {
